@@ -5,3 +5,7 @@ This repository contains the code for a clone website, replicating the design an
 Installation
 Extract this zip file and run the html code
 Access the website in your browser after setup.
+
+NOTE
+Thie code is given for a quick view . 
+For actual working ,extract "Lambo"zip file and run home.html
